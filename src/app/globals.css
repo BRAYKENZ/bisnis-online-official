@@ -1,4 +1,3 @@
-
 "use client";
 import { useCart } from "@/components/CartContext";
 import Link from "next/link";
